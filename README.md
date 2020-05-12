@@ -1,6 +1,5 @@
 # Cartpole using Reinforcement Q-Learning Algorithm
 
-#### Cartpole
 <h3 align="center">
 <img src="/cartpole_example.gif" width="300">
 </h3>
@@ -39,7 +38,7 @@ End Do
 End For
 ```
 
-### code
+### Updating action and Q value
 ```
             while not goal:
                 #self.env.render()
