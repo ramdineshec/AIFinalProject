@@ -4,9 +4,9 @@
 
 ## Run
 
-```
+````
 python cartpole.py
-```
+````
 
 * `--episode`: direct the episode count
 * `--render`: render the GUI
