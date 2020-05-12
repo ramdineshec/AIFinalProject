@@ -1,2 +1,2 @@
-# AIFinalProject
-Cart pole using Reinforcement Q-Learning Algorithm
+# Cartpole using Reinforcement Q-Learning Algorithm
+
