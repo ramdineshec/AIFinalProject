@@ -1,5 +1,6 @@
 # Cartpole using Reinforcement Q-Learning Algorithm
 
+<img src="/cartpole_example.gif" width="300">
 
 
 ## About
