@@ -22,6 +22,7 @@
 
 <img src="/episode vs mean_scores.png">
 
+>
 ##### Example console chart
 
 <img src="/console.png">
