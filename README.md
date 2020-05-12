@@ -24,7 +24,9 @@
 
 ##### Solved trials chart
 
-https://github.com/ramdineshec/AIFinalProject/blob/master/console.PNG
+<h4 align="center">
+  <img src="/console.png" width="300">
+</h4>
 
 ## Run
 
