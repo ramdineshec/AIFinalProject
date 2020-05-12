@@ -22,10 +22,9 @@
 
 <img src="/episode vs mean_scores.png">
 
->
-##### Example console chart
+##### Solved trials chart
 
-<img src="/console.png" width="300">
+<img src="/console.png">
 
 ## Run
 
