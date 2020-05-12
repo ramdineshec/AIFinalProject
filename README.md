@@ -4,7 +4,7 @@
 <img src="/cartpole_example.gif" width="300">
 </h3>
 
-## About
+### About
 
 > A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track. The system is controlled by applying a force of +1 or -1 to the cart. The pendulum starts upright, and the goal is to prevent it from falling over. A reward of +1 is provided for every timestep that the pole remains upright. The episode ends when the pole is more than 15 degrees from vertical, or the cart moves more than 2.4 units from the center, or episode length is greater than 200 .
 
@@ -21,7 +21,7 @@
 * angle velocity ∈ [-3.4 10^38, 3.4 10^38]
 
 
-### Q-Learning Algorithm
+#### Q-Learning Algorithm
 ```
 The Q-Learning algorithm goes as follows:
 1. Set the gamma parameter, and environment rewards in matrix R.
@@ -38,7 +38,7 @@ End Do
 End For
 ```
 
-### Updating action and Q value
+#### Updating action and Q value
 ```
             while not goal:
                 #self.env.render()
@@ -52,7 +52,7 @@ End For
 ```
 
 
-## Performance
+### Performance
 
 > CartPole-v0 defines "solving" as getting average reward of 195.0 over 100 consecutive trials.
 >
@@ -62,7 +62,7 @@ End For
 <img src="/episode vs mean_scores.png">
 
 
-## Run
+### Run
 
 ```
 python CartpoleQ.py
