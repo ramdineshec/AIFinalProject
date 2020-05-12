@@ -22,7 +22,7 @@
 
 <img src="/episode vs mean_scores.png">
 
-##### Example trial chart
+##### Example console chart
 
 <img src="/console.png">
 
@@ -35,4 +35,4 @@ python CartpoleQ.py
 * `--episode`: direct the episode count
 * `--render`: render the GUI
 
-Of course you have to install `gym` to run. And it works on Python3.
+You have to install `gym` to run. And it works on Python > 3.
